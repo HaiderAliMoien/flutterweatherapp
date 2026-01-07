@@ -6,8 +6,6 @@ The weather app is a design implementation of [Weather App](https://dribbble.com
 
 This project relied on this [Flutter Getx Template](https://github.com/EmadBeltaje/flutter_getx_template) made by [Emad Beltaje](https://github.com/EmadBeltaje).
 
-## Demo of the application 🎥
-![Flutter Weather App Demo](https://github.com/AbdQader/flutter_weather_app/assets/64075836/7cbccfc6-1d2d-4a55-8297-df97ef6ec787)
 
 ---
 
@@ -15,12 +13,10 @@ This project relied on this [Flutter Getx Template](https://github.com/EmadBelta
 
 ### Light Mode ☀
 
-![LightMode](https://github.com/AbdQader/flutter_weather_app/assets/64075836/87819a55-be29-401c-b332-d15694afb8fb)
+
 
 ---
 ### Dark Mode 🌙
-
-![DarkMode](https://github.com/AbdQader/flutter_weather_app/assets/64075836/af388ce0-9e88-417d-b777-7b185ea20e2d)
 
 ---
 
